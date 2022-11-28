@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+      <title> Tables </title>
+</head>
+<body>
+<table border="1">
+<thead>
+<tr>
+    <th>First Name </th>
+    <th>Last Name </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+    <td>PIYUSH</td>
+	  <td>AMAN</td>
+</tr>
+<tr>
+     <td> ASHISH</td>
+	   <td> PATEL </td>
+</tbody>
+</table>
+</body>
+</html>
