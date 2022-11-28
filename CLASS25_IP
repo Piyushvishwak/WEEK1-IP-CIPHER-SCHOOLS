@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+    <title> div tag </title>
+	  <style>
+	    .1{ 
+		background-color: blue;
+		color:yellow;
+
+		}
+		.2{
+		background-color:grey;
+		}
+	  </style>
+</head>
+<body>
+<div class="1">
+
+<h2> heading<h2>
+<ul>
+  <li>item</li>
+	<li>item</li>
+	<li>item</li>
+	<li>item</li>
+	<li>item</li>
+	<li>item</li>
+	<li>item</li>
+</ul>
+</div>
+<div class="2">
+<h2> heading2 </h2>
+<p> SHREE RAM WAS A GREAT PERSON. HE WAS ALSO KNOWN AS "PURUSHOTTAM", MEANS GREATEST OF HUMANS. </p>
+</div>
+</body>
+</html>
